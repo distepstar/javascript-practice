@@ -1,0 +1,11 @@
+#countLabel{
+	display: block;
+	text-align: center;
+	font-size: 50px;
+}
+
+.wrapperClass{
+	display: block;
+	text-align: center;
+	padding-top: 10px;
+}
